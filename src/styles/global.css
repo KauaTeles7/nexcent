@@ -46,3 +46,22 @@
 a{
     text-decoration: none;
 }
+.btn-primary{
+    background-color: var(--color-primary);
+    padding: 14px 32px;
+    border-radius: 4px;
+    align-self: flex-start;
+    margin-top: 16px;
+}
+
+.btn-primary a{
+    color: var(--color-neutral-White);
+}
+
+h2 {
+    color: var(--color-neutral-D_grey);
+    font-size: var(--font-headline-2-size);
+    font-weigth: var(--font-headline-2-weigth);
+    
+
+}
